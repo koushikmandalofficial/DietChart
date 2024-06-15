@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.UserdetailsActivity"
+    android:background="#E8E6E6">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="start"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/share"
+            app:tint="@color/primarycolor" />
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="-25dp"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="-25dp"
+            android:text="User's Details"
+            android:textColor="#C9696964"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Fill The All Details"
+            android:textColor="#A6696969"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/etName"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"
+            android:background="@drawable/triangle"
+            android:gravity="center"
+            android:hint="Full Name" />
+
+        <LinearLayout
+            android:id="@+id/llspiner1"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:background="@drawable/triangle"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:paddingRight="20dp">
+
+            <Spinner
+                android:id="@+id/spGender"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center" >
+            <EditText
+                android:id="@+id/etAge"
+                android:layout_width="150dp"
+                android:layout_height="60dp"
+                android:hint="Age"
+                android:gravity="center"
+                android:inputType="number"
+                android:background="@drawable/triangle" />
+
+            <EditText
+                android:id="@+id/etHeight"
+                android:layout_width="150dp"
+                android:layout_height="60dp"
+                android:background="@drawable/triangle"
+                android:gravity="center"
+                android:inputType="number"
+                android:hint="Height" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llspiner"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:background="@drawable/triangle"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+            <Spinner
+                android:id="@+id/spDisease"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:id="@+id/llspiner2"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:background="@drawable/triangle"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+            <Spinner
+                android:id="@+id/spQuestion"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+        <EditText
+            android:id="@+id/etAnswer"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:background="@drawable/triangle"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:hint="Security Answer"
+            android:gravity="center" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cvSignup"
+            android:layout_width="160dp"
+            android:layout_height="45dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/primarycolor"
+            android:elevation="100dp"
+            android:outlineAmbientShadowColor="@color/primarycolor"
+            android:outlineSpotShadowColor="@color/primarycolor"
+            app:cardCornerRadius="30dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif-medium"
+                android:text="Sign Up"
+                android:textColor="#E8E6E6"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+
+</ScrollView>

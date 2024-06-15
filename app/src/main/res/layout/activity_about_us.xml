@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.AboutUsActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/share"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="start"
+            app:tint="#7A7E7A"/>
+        <LinearLayout
+            android:id="@+id/developer"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/triangle">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="ABOUT US"
+                android:textSize="25dp"
+                android:fontFamily="sans-serif-light"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Our Mission : "
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="#CD000000"/>
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="We all know that eating right can help you maintain a healthy weight and avoid certain health problems.Also your diet can have a profound effect on your mood and sense of well being.Eating a healthy diet doesn’t have to be overly complicated. While some specific foods or nutrients have been shown to have a beneficial effect on mood, it’s your overall dietary pattern that is most important. The cornerstone of a healthy diet pattern should be to replace processed food with real food whenever possible. Eating food that is as close as possible to the way nature made it can make a huge difference to the way you think, look, and feel. By using simple tips you can learn how to create a tasty, varied and healthy diet that is good for your mind as it is for your body.Follow the diet chart below which is useful for you to decide the diet pattern for your lifestyle."
+            android:textStyle="italic"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Our Services :"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="#CD000000"/>
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Diet suggestion"
+            android:textStyle="italic"
+            android:textSize="15dp"/>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Diet Plan"
+            android:textStyle="italic"
+            android:textSize="15dp"/>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Food Information"
+            android:textStyle="italic"
+            android:textSize="15dp"/>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Helthy Tipes"
+            android:textStyle="italic"
+            android:textSize="15dp"/>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Exercise Reminder"
+            android:textStyle="italic"
+            android:textSize="15dp"/>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Your Exercise Statistics"
+            android:textStyle="italic"
+            android:textSize="15dp"/>
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Privacy Policy :"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="#CD000000"/>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for fat loss diet chart is based on the your safty ."
+            android:textStyle="italic"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="                   We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information by this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from this app ."
+            android:textStyle="italic"
+            android:textSize="15dp"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

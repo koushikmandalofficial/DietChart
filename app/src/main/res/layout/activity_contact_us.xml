@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ContactUsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/developer"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/triangle">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="DEVELOPER"
+                android:textSize="25dp"
+                android:fontFamily="sans-serif-light"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/papia"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:background="@drawable/triangle">
+
+            <RelativeLayout
+                android:id="@+id/imgpapia"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/spinerback">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:elevation="20dp"
+                    app:cardCornerRadius="100dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/papia" />
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/txtpapia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_toRightOf="@id/imgpapia"
+                android:text="Papia Bhowmik"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/papiabca"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtpapia"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@id/imgpapia"
+                android:text="BCA(H)"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/papiabca"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@id/imgpapia"
+                android:autoLink="email"
+                android:linksClickable="true"
+                android:text="bhowmikpapia7@gmail.com" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/koushik"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:background="@drawable/triangle">
+
+            <TextView
+                android:id="@+id/txtkoushik"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_toRightOf="@id/imgkoushik"
+                android:text="Koushik Mandal"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/koushikbca"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtkoushik"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/imgkoushik"
+                android:text="BCA(H)" />
+
+            <RelativeLayout
+                android:id="@+id/imgkoushik"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/spinerback">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:elevation="20dp"
+                    app:cardCornerRadius="100dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/koushik" />
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/koushikbca"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@+id/imgkoushik"
+                android:autoLink="email"
+                android:linksClickable="true"
+                android:text="mkoushik2020@gmail.com" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/subham"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/triangle">
+
+            <RelativeLayout
+                android:id="@+id/imgsubham"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/spinerback">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:elevation="20dp"
+                    app:cardCornerRadius="1000dp">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/subham" />
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/txtsubham"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_toRightOf="@id/imgsubham"
+                android:text="Subham Patra"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/subhambca"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/txtsubham"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/imgsubham"
+                android:text="BCA(H)" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/subhambca"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@id/imgsubham"
+                android:autoLink="email"
+                android:linksClickable="true"
+                android:text="subhampatra751@gmail.com" />
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+
+</ScrollView>

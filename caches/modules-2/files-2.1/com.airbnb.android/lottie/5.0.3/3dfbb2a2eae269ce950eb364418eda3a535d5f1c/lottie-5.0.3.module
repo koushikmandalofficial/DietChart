@@ -1,0 +1,74 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.airbnb.android",
+    "module": "lottie",
+    "version": "5.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "lottie-5.0.3.aar",
+          "url": "lottie-5.0.3.aar",
+          "size": 392022,
+          "sha512": "29366ab34e148779cdc26b4fe291d1f806bfdae96cfc2188c45b0900139caead4d70b2e685ac4f283cf1978732ad443df00a665ea66ebc47a6640a6204dd4f61",
+          "sha256": "d8038e7bdbb70247c8783635ca3e1164a6d6ca69d0f092a55388a77577620cff",
+          "sha1": "fd6a2e641c874b66146de34aa1aa901bc8578e1c",
+          "md5": "f784b159938003ded75064aa5c009675"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.squareup.okio",
+          "module": "okio",
+          "version": {
+            "requires": "1.17.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "lottie-5.0.3.aar",
+          "url": "lottie-5.0.3.aar",
+          "size": 392022,
+          "sha512": "29366ab34e148779cdc26b4fe291d1f806bfdae96cfc2188c45b0900139caead4d70b2e685ac4f283cf1978732ad443df00a665ea66ebc47a6640a6204dd4f61",
+          "sha256": "d8038e7bdbb70247c8783635ca3e1164a6d6ca69d0f092a55388a77577620cff",
+          "sha1": "fd6a2e641c874b66146de34aa1aa901bc8578e1c",
+          "md5": "f784b159938003ded75064aa5c009675"
+        }
+      ]
+    }
+  ]
+}

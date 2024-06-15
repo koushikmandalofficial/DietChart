@@ -1,0 +1,648 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">DietChartFinal</string>
+
+    <string name="appeldetails"> Apples are among the world’s most popular fruits.They grow on the apple tree (Malus domestica),originally from Central Asia. Apples are high infiber, vitamin C, and various antioxidants. They are also very filling, considering their low calorie count. Usually eaten raw, apples can also be used in various recipes, juices, and drinks. Various types abound, with a variety of colors and sizes.</string>
+    
+    <string name="bananadetails">Bananas are among the most important food
+crops on the planet. They come from a family of
+plants called Musa that are native to Southeast
+Asia and grown in many of the warmer areas of
+the world. Bananas are a healthy source of
+fiber, potassium, vitamin B6, vitamin C, and
+various antioxidants and phytonutrients. Many
+types and sizes exist. Their color usually ranges
+from green to yellow, but some varieties are red.</string>
+
+    <string name="grapes">People have cultivated grapes for thousands of
+years, including several ancient civilizations that
+revered them for their use in winemaking.
+Grapes also make a quick and delicious snack
+you can enjoy at home or on the go. You may
+find them in various colors, including green, red,
+black, yellow, and pink. They come in multiple
+forms, too, from raisins to jellies to juice.
+Seeded and seedless varieties also exist.
+Grapes offer a wealth of health benefits,
+primarily due to their high nutrient and
+antioxidant contents.</string>
+
+    <string name="guavas">Guavas are tropical trees originating in Central
+America. Their fruits are oval in shape with light
+green or yellow skin and contain edible seeds.
+What’s more, guava leaves are used as an
+herbal tea and the leaf extract as a supplement.
+Guava fruits are amazingly rich in antioxidants,
+vitamin C, potassium, and fiber. This remarkable
+nutrient content gives them many health
+benefits.</string>
+
+    <string name="litchi">The lychee (Litchi chinensis) — also known as
+litchi or lichee — is a small tropical fruit from the
+soapberry family. Other popular fruits in this
+family include rambutan and longan.
+
+Lychees are grown in subtropical regions
+throughout the world and especially popular in
+their native China, as well as Southeast Asia.
+
+Known for their sweet and flowery flavor, they’re
+typically eaten fresh and sometimes used in ice
+creams or processed into juice, wine, sherbert,
+and jelly.
+
+They’re a good source of several vitamins,
+minerals, and healthy antioxidants.
+
+Lychees have an inedible, pink-red, leathery
+skin, which is removed before consumption. The
+flesh is white and surrounds a dark seed in the
+center.
+
+Lychees are mainly composed of water
+and carbs — which make up 82% and 16.5% of
+the fruit, respectively Carbs and Fibers
+
+Besides water, lychees are mainly composed of
+carbs.
+
+The majority of the carbs in lychees comes from
+sugars, which are responsible for their sweet
+taste. They’re relatively low in fiber.
+
+Vitamins and Minerals
+
+Lychees are a decent source of several vitamins
+and minerals, including:
+
+• Vitamin C: The most abundant vitamin
+in lychees. One lychee provides around
+9% of the Reference Daily Intake (RDI)
+for vitamin C
+• Copper: Lychees are a decent source
+of copper. Inadequate copper intake
+may have adverse effects on heart
+health
+• Potassium: An essential nutrient that
+may improve heart health when eaten in
+sufficient amounts</string>
+
+    <string name="pineapple">Pineapple (Ananas comosus) is an incredibly
+delicious, healthy tropical fruit. It’s packed with
+nutrients, antioxidants, and other helpful
+compounds, such as enzymes that can protect
+against inflammation and disease. It’s
+commonly eaten baked, grilled, or freshly cut.
+
+Originating in South America, it was named by
+early European colonizers for its resemblance to
+a pine cone.
+
+Pineapple and its compounds are linked to
+several health benefits, including improvements
+in digestion, immunity, and recovery from
+surgery.
+
+Pineapples also contain trace amounts of
+phosphorus, zinc, calcium, and vitamins A and
+K.
+
+As you can see, this fruit is particularly rich
+in vitamin C and manganese. Vitamin C is
+essential for immune health, iron absorption,
+and growth and development, while manganese
+offers antioxidant properties and aids in growth
+and metabolism.
+
+Antioxidants help prevent oxidation in your
+body, which may help ward off inflammation that
+can lead to cancer and other chronic diseases.
+
+Pineapples also contain other micronutrients,
+such as copper, thiamine, and vitamin B6, which
+are essential for healthy metabolism.</string>
+
+    <string name="jackfruit">Jackfruit may be higher in some vitamins and minerals than apples,apricots, bananas, and avocados. For example,it is rich in vitamin C and one of the few fruits that is high in B vitamins. Jackfruit also contains folate, niacin, riboflavin, potassium, and magnesium.
+        Carotenoids, the pigments that give jackfruit its yellow color, are high in vitamin A. Like all antioxidants, carotenoids protect cells fromdamage and help your body work right. Theymay help prevent diseases like cancer and heart disease, as well as eye problems like cataracts and macular degeneration. As a jackfruit ripens, its carotenoid levels maygo up.</string>
+
+    <string name="orange">Oranges are popular due to their natural
+sweetness, the many different types available,
+and the diversity of uses. For example, a person
+can consume them in juices and marmalades,
+eat them whole, or use zested peel to add a
+tangy flavor to cakes and desserts.
+This popular citrus fruit is particularly known for
+its vitamin C content. However, oranges contain
+a range of other plant compounds
+and antioxidants that may
+reduce inflammation and work against disease.</string>
+
+    <string name="strawberry">Strawberries, like other berries, are rich in
+vitamins, minerals, fiber, and compounds with
+antioxidant and anti-inflammatory properties. As
+part of a nutritious diet, they can help prevent
+various conditions.
+One of these health conditions is type 2
+diabetes. Evidence Trusted Source suggests
+this fruit lowers the post-meal increase in blood
+sugar in some people with obesity or excess
+weight.
+     Additionally, ingredients within strawberries may
+    also help protect against heart disease, stroke,
+    cancer, high blood pressure, and constipation.</string>
+
+
+    <string name="mango">Mangoes are sweet, creamy fruits that have
+a range of possible health benefits. They
+are highly popular around the world.
+
+The mango is a tropical stone fruit and
+member of the drupe family. This is a type
+of plant food with a fleshy outer section that
+surrounds a shell, or pit. This pit contains a
+seed.
+
+Other members of the drupe
+family include olives, dates, and coconuts.
+
+There are many different kinds of mango.
+They vary in color, shape, flavor, and seed
+size. Although mango skin can be green,
+red, yellow, or orange, its inner flesh is
+mostly golden yellow.</string>
+
+    <string name="blackberry">Blackberries are a delicious addition to any diet.
+    They are also packed with essential nutrients
+    and antioxidants.
+
+    Blackberries are native to Europe, but farmers
+    grow them across the United States all year
+    round. They come from brambles, which are a
+    type of thorny bush.
+
+    In this article, we look at some of the potential
+    health benefits associated with eating
+    blackberries, and how to include more
+    blackberries in a typical diet.</string>
+
+
+    <string name="watermelon">The watermelon (Citrullus lanatus) is a large,
+    sweet fruit originally from southern Africa. It’s
+    related to cantaloupe, zucchini, pumpkin, and
+    cucumber.
+
+    Watermelon is packed with water and nutrients,
+    contains very few calories, and is exceptionally
+    refreshing.
+
+    What’s more, it’s a good dietary source of both
+    citrulline and lycopene, two powerful plant
+    compounds.</string>
+
+
+    <string name="coconut">Coconut is the fruit of the coconut palm (Cocos
+nucifera), which is commonly used for its water,
+milk, oil, and tasty meat.
+
+Coconut trees are considered the most naturally
+widespread fruit tree on the planet and are
+native to Southeast Asia and the islands
+between the Indian and Pacific oceans .
+
+Today, coconuts are cultivated around the globe
+and have become increasingly popular for their
+flavor, culinary uses, and many potential health
+benefits.
+
+This article will explore five potential benefits of
+coconuts, along with some simple ways to add
+them to your diet.</string>
+
+
+    <string name="Potato">Potatoes are the most commonly consumed
+vegetable in the United States. In 2017, it was
+calculated that each person consumed 49.2
+pounds of potatoes. This beloved vegetable is
+easy to grow and is used in countless dishes
+across the country year-round.
+Health Benefits
+Potatoes are a good source of fiber, which can
+help you lose weight by keeping you full longer.
+Fiber can help prevent heart disease by
+keeping cholesterol and blood sugar levels in
+check. Potatoes are also full of antioxidants that
+work to prevent diseases and vitamins that help
+your body function properly.
+Digestive Health
+The fiber found in potatoes is a special type
+called “resistant starch,” which has the health
+benefits of both soluble fiber and insoluble
+fiber and causes less gas than other types of
+fiber. You can up the amount of resistant
+starch in potatoes by cooking them a day
+ahead of time and cooling them in the fridge
+overnight. Feel free to reheat them before you eat.</string>
+    <string name="Tomato">The tomato (Solanum lycopersicum) is a
+fruit from the nightshade family native to
+South America.
+Despite botanically being a fruit, it’s
+generally eaten and prepared like a
+vegetable.
+Tomatoes are the major dietary source
+of the antioxidant lycopene, which has
+been linked to many health benefits,
+including reduced risk of heart disease
+and cancer.
+They are also a great source of vitamin
+C, potassium, folate, and vitamin K.
+Usually red when mature, tomatoes can
+also come in a variety of colors,
+including yellow, orange, green, and
+purple. What’s more, many subspecies
+of tomatoes exist with different shapes
+and flavor.
+</string>
+    <string name="onion">Onions (Allium cepa) are bulb-shaped
+vegetables that grow underground.
+Also known as bulb onions or common
+onions, they are grown worldwide and
+closely related to chives, garlic,
+scallions, shallots, and leeks.
+Onions may have several health
+benefits, mostly due to their high content
+of antioxidants and sulfur-containing
+compounds.
+They have antioxidant and antiinflammatory effects and have been
+linked to a reduced risk of cancer, lower
+blood sugar levels, and improved bone
+health.
+Commonly used as a flavoring or side
+dish, onions are a staple food in many
+cuisines. They can be baked, boiled,
+grilled, fried, roasted, sautéed,
+powdered, or eaten raw.
+Onions vary in size, shape, and color,
+but the most common types are white,
+yellow, and red. The taste ranges from
+mild and sweet to sharp and spicy,
+depending on the variety and season.
+Onions can also be consumed when
+immature, before the bulb reaches full
+size. They are then called scallions,
+spring onions, or summer onions.
+Raw onions are very low in calories, with
+only 40 calories per 3.5 ounces (100
+grams).
+By fresh weight, they are 89% water, 9%
+carbs, and 1.7% fiber, with tiny amounts
+of protein and fat</string>
+    <string name="Cauliflower">Cauliflower is an extremely healthy
+vegetable that’s a significant source of
+nutrients.
+It also contains unique plant compounds
+that may reduce the risk of several
+diseases, including heart disease and
+cancer.
+Additionally, it’s weight loss friendly and
+incredibly easy to add to your diet.
+Cauliflower is quite high in fiber, which is
+beneficial for overall health.
+There are 3 grams of fiber in one cup of
+cauliflower, which is 10% of your daily.
+Fiber is important because it feeds the
+healthy bacteria in your gut that help
+reduce inflammation and promote
+digestive health.
+Consuming enough fiber may help
+prevent digestive conditions like
+constipation, diverticulitis and
+inflammatory bowel disease (IBD).
+Moreover, studies show that a diet high
+in fiber-rich vegetables like cauliflower is
+linked with a lower risk of several
+illnesses, including heart disease,
+cancer and diabetes</string>
+    <string name="Carrot">The carrot (Daucus carota) is a root
+vegetable often claimed to be the perfect
+health food.
+It is crunchy, tasty, and highly nutritious.
+Carrots are a particularly good source of
+beta carotene, fiber, vitamin K1, potassium,
+and antioxidants.
+They also have a number of health benefits.
+They’re a weight-loss-friendly food and have
+been linked to lower cholesterol levels and
+improved eye health.
+What’s more, their carotene antioxidants
+have been linked to a reduced risk of
+cancer.
+Carrots are found in many colors, including
+yellow, white, orange, red, and purple.
+Orange carrots get their bright color from
+beta carotene, an antioxidant that your body
+converts into vitamin A.Carrots are a good source of several
+vitamins and minerals, especially biotin,
+potassium, and vitamins A (from beta
+carotene), K1 (phylloquinone), and B6.</string>
+    <string name="Ginger">Gingerol is the main bioactive compound in
+ginger. It’s responsible for much of ginger’s
+medicinal properties.
+Gingerol has powerful anti-inflammatory
+and antioxidant effects, according to
+research. For instance, it may help
+reduce oxidative stress, which is the result
+of having an excess amount of free radicals
+in the body.
+This area of research is relatively new, but
+ginger may have powerful anti-diabetic
+properties.
+In a 2015 study of 41 participants with type 2
+diabetes, 2 grams of ginger powder per day
+lowered fasting blood sugar by 12%.
+It also dramatically improved hemoglobin
+A1c (HbA1c), a marker for long-term blood
+sugar levels. HbA1c was reduced by 10%
+over a period of 12 weeks.
+There was also a 28% reduction in the
+Apolipoprotein B/Apolipoprotein A-I ratio and
+a 23% reduction in malondialdehyde (MDA),
+which is a byproduct of oxidative stress. A
+high ApoB/ApoA-I ratio and high MDA levels
+are both major risk factors of heart disease.
+However, keep in mind that this was just one
+small study. The results are incredibly
+impressive, but they need to be confirmed in
+larger studies before any recommendations
+can be made.
+In somewhat encouraging news, a 2019
+literature review also concluded that ginger
+significantly reduced HbA1c in people with
+type 2 diabetes. However, it also found that
+ginger had no effect on fasting blood sugar.</string>
+    <string name="Garlic">Garlic is a plant in the Allium (onion) family.
+It is closely related to onions, shallots, and
+leeks.
+Each segment of a garlic bulb is called a
+clove. There are about 10–20 cloves in a
+single bulb, give or take.
+Garlic grows in many parts of the world and
+is a popular ingredient in cooking, due to its
+strong smell and delicious taste.
+However, throughout ancient history, the
+main use of garlic was for its health and
+medicinal properties.
+Its use was well documented by many major
+civilizations, including the Egyptians,
+Babylonians, Greeks, Romans, and
+Chinese.
+Scientists now know that most of garlic’s
+health benefits are caused by sulfur
+compounds formed when a garlic clove is
+chopped, crushed, or chewed.
+Perhaps the most well-known compound is
+allicin. However, allicin is an unstable
+compound that is only briefly present in
+fresh garlic after it’s been cut or crushed.
+Other compounds that may play a role in
+garlic’s health benefits include diallyl
+disulfide and s-allyl cysteine .
+    The active compounds in garlic can
+reduce blood pressure
+Cardiovascular diseases like heart attack
+and stroke are responsible for more deaths
+than almost any other condition.
+High blood pressure, or hypertension, is one
+of the most important factors that may lead
+to these diseases.
+Human studies have found garlic
+supplements to have a significant impact on
+reducing blood pressure in people with high
+blood pressure.
+In one study, 600–1,500 mg of aged garlic
+extract were just as effective as the drug
+Atenolol at reducing blood pressure over a
+24-week period.
+Supplement doses must be fairly high to
+have the desired effects. The amount
+needed is equivalent to about four cloves of
+garlic per day</string>
+
+
+    <string name="chickenDetails">Chicken is rich in an array of important
+    nutrients and can be an excellent addition
+    to a healthy, well-rounded diet.
+    Given that chicken is low in calories but
+    high in protein, it may be especially
+    beneficial for weight loss, if that’s a goal
+    for you. Studies show that increasing your intake
+    of protein may enhance feelings of
+    fullness, increase weight loss, and help
+    maintain lean body mass</string>
+    <string name="fishDetails">Fish is packed with many nutrients that
+    most people are lacking.
+    This includes high-quality protein, iodine,
+    and various vitamins and minerals.
+    Fatty species are sometimes considered
+    the healthiest. That’s because fatty fish,
+    including salmon, trout, sardines, tuna,
+    and mackerel, are higher in fat-based
+    nutrients.
+    This includes vitamin D, a fat-soluble
+    nutrient that many people are lacking.</string>
+    <string name="milkDetails">Milk is a nutrient-rich beverage that may
+    benefit your health in several ways.
+    It’s packed with important nutrients like
+    calcium, phosphorus, B vitamins,
+    potassium and vitamin D. Plus, it’s an
+    excellent source of protein.
+    Drinking milk and dairy products may
+    prevent osteoporosis and bone fractures
+    and even help you maintain a healthy
+    weight.
+    Many people are unable to digest milk or
+    choose to avoid it for personal reasons.
+    For those able to tolerate it, consuming
+    high-quality milk and dairy products has
+    been proven to provide a number of
+    health benefits</string>
+    <string name="eggDetails">It is true that eggs are high in cholesterol.
+    In fact, a single egg contains 212 mg,
+    which is over half of the recommended
+    daily intake of 300 mg.
+    However, it’s important to keep in mind
+    that cholesterol in the diet doesn’t
+    necessarily raise cholesterol in the blood.
+    The liver actually produces large amounts
+    of cholesterol every single day. When you
+    increase your intake of dietary
+    cholesterol, your liver simply produces
+    less cholesterol to even it out.
+    Nevertheless, the response to eating
+    eggs varies between individuals.
+    In 70% of people, eggs don’t raise
+    cholesterol at all
+    • In the other 30% (termed “hyper
+    responders”), eggs can mildly
+    raise total and LDL cholesterol
+    However, people with genetic disorders
+    like familial hypercholesterolemia or a
+    gene variant called ApoE4 may want to
+    limit or avoid eggs.</string>
+
+    <string name="GreenTeaDeteils">Green tea is touted to be one of the
+    healthiest beverages on the planet.
+    It’s loaded with antioxidants that have
+    many health benefits, which may include:
+    • improved brain function
+    • fat loss
+    • protecting against cancer
+    • lowering the risk of heart disease
+    If you look at the ingredients list for
+    any fat burning supplement, chances are,
+    green tea will be on there.
+    This is because, according to research,
+    green tea can increase fat burning
+    and boost metabolic rate.
+    In one study involving 10 healthy men,
+    taking green tea extract increased the
+    number of calories burned by 4%. In
+    another involving 12 healthy men, green
+    tea extract increased fat oxidation by
+    17%, compared with those taking a
+    placebo.
+    However, some studies on green tea
+    don’t show any increase in metabolism,
+    so the effects may depend on the
+    individual and how the study was set up.
+    Caffeine may also improve physical
+    performance by mobilizing fatty acids
+    from fat tissue and making them available
+    for use as energy.</string>
+    <string name="breadDeteils">Bread is a staple food in many countries
+    and has been eaten worldwide for
+    millennia.
+    Typically prepared from a dough made of
+    flour and water, bread is available in
+    many varieties, including sourdough,
+    sweet bread, soda bread and more.
+    Despite its widespread popularity, bread
+    is often characterized as unhealthy,
+    harmful and fattening.
+    This article examines the health impact of
+    bread, telling you whether it’s good or
+    bad for you.
+    Compared to other foods like fruits and
+    vegetables, bread is relatively low in
+    essential nutrients.
+    It is rather high in calories and carbs but
+    low in protein, fat, fiber, vitamins and
+    minerals.</string>
+    <string name="muttonDeteils">Meat often makes a regular appearance in
+    the diet of humans. Whether you choose
+    red or white meats, meat is rich in
+    protein, vitamins, and minerals. Meat can
+    be sourced from various animals, the
+    most popular including cow, lamb, and
+    chicken.
+    Recently, goat meat has started to gain
+    some traction. While it’s often been
+    consumed in Asian, Caribbean, and
+    Middle Eastern cuisine, the demand is
+    less common in western countries.
+    Considered to be one of the healthiest red
+    meats, lower in saturated fat and
+    cholesterol, and higher in iron than other
+    red or white meats.
+    Goat meat has a strong, gamey flavor,
+    sweeter than lamb but less sweet than
+    beef. Cooking it with lots of flavor and
+    spices helps complement its unique
+    flavor.
+    Goat meat does not have cultural or
+    religious taboos that some other meats
+    may have, making it suitable for most
+    cultures</string>
+    <string name="riceDeteils">Many health communities view white rice
+    as an unhealthy option.
+    It’s highly processed and missing its hull
+    (the hard protective coating), bran (outer
+    layer) and germ (nutrient-rich core).
+    Meanwhile, brown rice only has the hull
+    removed.
+    For this reason, white rice lacks many
+    vitamins and minerals that are present in
+    brown rice.
+    However, there are some instances
+    where white rice is a better option than
+    brown rice.
+    White and brown rice are the most
+    popular types of rice and have similar
+    origins.
+    Brown rice is simply the entire whole rice
+    grain. It contains the fiber-rich bran, the
+    nutrient-packed germ and the
+    carbohydrate-rich endosperm.
+    On the other hand, white rice is stripped
+    of its bran and germ, leaving just the
+    endosperm. It’s then processed to
+    improve taste, extend shelf life and
+    enhance cooking properties.
+    White rice is considered empty carbs
+    since it loses its main sources of
+    nutrients.
+    However, in the US and many other
+    countries, white rice is typically enriched
+    with added nutrients, including iron and B
+    vitamins like folic acid, niacin, thiamine
+    and more.
+    This table shows how 3.5 ounces (100
+    grams) of the different types of rice
+    compare nutritionally when cooked.</string>
+    <string name="darkChocolateDeteils">Dark chocolate is loaded with nutrients
+    that can positively affect your health.
+    Made from the seed of the cacao tree, it’s
+    one of the best sources of antioxidants
+    you can find.
+    Studies show that dark chocolate can
+    improve your health and lower the risk of
+    heart disease.
+    The flavanols in dark chocolate can
+    stimulate the endothelium, the lining of
+    arteries, to produce nitric oxide.
+    One of the functions of NO is to send
+    signals to the arteries to relax, which
+    lowers the resistance to blood flow and
+    therefore reduces blood pressure.
+    Many controlled studies show that cocoa
+    and dark chocolate can improve blood
+    flow and lower blood pressure, though
+    the effects are usually mild.
+    However, one study in people with high
+    blood pressure showed no effect, so take
+    this with a grain of salt.
+    Given the great variation between studies
+    on this subject, it’s clear that more
+    research is needed</string>
+    <string name="pizzaDeteils">Pizza is a favorite food for many around
+    the world.
+    The addicting combination of delicious
+    crust, sweet tomato sauce and salty
+    mozzarella cheese is sure to please even
+    the pickiest of eaters.
+    However, it’s commonly labeled
+    unhealthy, as it can be high in calories,
+    sodium and carbs.</string>
+    <string name="burgerDeteils">Burger meat is the rich protein
+    source, especially when it comes to
+    Chapps’ top notch beef. Protein
+    presents your body’s source of
+    energy, it builds muscle as well as
+    gives structure to the cells.
+    Depending on their lifestyle and diet,
+    people need between 50 and 175
+    grams of protein per day. And we’re
+    happy to say that one delicious
+    Chapps burger will provide you with
+    60 grams of protein</string>
+
+
+</resources>
